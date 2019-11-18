@@ -2,6 +2,7 @@ import homePage from "../pages/mainpageNotlogged.js"
 import loginPage from "../pages/login.js"
 import registerPage from "../pages/register.js"
 import homeLogged from "../pages/mainpageLogged.js"
+import barDetails from "../pages/chosenBar.js"
 
 const user = firebase.auth().currentUser;
 const main = document.getElementById('aqui');
@@ -22,6 +23,10 @@ const homeLoggedMain = () => {
 	main.innerHTML = homeLogged();
 }
 
+// const barPage = () => {
+// 	main.innerHTML = barDetails();
+// }
+
 const hash = () => {
 	firebase.auth().onAuthStateChanged((user) =>
 	{
@@ -30,7 +35,10 @@ const hash = () => {
   				return homeLoggedMain();
   			} else if (location.hash === '#mainlogged') {
   				return homeLoggedMain();
-  			}
+  			} 
+  			// else if (location.hash === '#bar') {
+  			// 	return barPage();
+  			// }
   		} else {
   			if (location.hash === '') {
   				return homeMain();
