@@ -5,14 +5,15 @@
 * [3. UX](#3-ux)
 * [4. Planejamento](#4-planejamento)
 * [5. Desenvolvimento Front End](#5-desenvolvimento-front-end)
-* [6. ]
-* [7. Desenvolvedoras](#7-desenvolvedoras)
+* [6. Desenvolvedoras](#7-desenvolvedoras)
 
 ***
 
 ## 1. Introdução
 
 **Bora pro Bar** é um app voltado para pessoas maiores de 18 anos com o intuito de reunir informações sobre bares e outras *features*.
+
+Este projeto foi elaborado no Bootcamp da **Laboratoria**, em 4 dias de *design sprint* e dois dias de *coding* para apresentação no OpenHouse.
 
 ## 2. O problema
 
@@ -35,7 +36,6 @@ Com base nos problemas verificados, o nicho do app seriam pessoas maiores de 18 
 * [Crazy Eights](https://en.wikipedia.org/wiki/Crazy_Eights)
 
 ### 3.2 Personas
-
 
 <img src="https://i.imgur.com/rfjKyhC.png" width="280" height="200" style="float": right>
 <img src="https://i.imgur.com/fibKiH3.png" width="280" height="200" style="float": right>
@@ -74,3 +74,20 @@ Mobile (app).
 * *Carteira de pagamento virtual (QR Code)*
 
 ## 4. Planejamento
+
+Tivemos um *design sprint* de quatro dias e dois dias para escrever o código. O **Trello** abaixo diz respeito ao planejamento do código.
+
+![](https://i.imgur.com/ZiVUbie.png)
+
+## 5. Desenvolvimento Front-End
+
+O app é uma SPA e etilizamos HTML5, CSS3, ES6, Git e Here (API de localização/mapa). O uso de uma API RESTful é um requisito obrigatório para este projeto.
+
+## 6. Desenvolvedoras
+
+[Ericka Lemos](https://github.com/erickalemos)
+[Évora da Ibéria](https://github.com/e-v-s)
+[Gabriela Serodio](https://github.com/GabrielaSerodio)
+[Leticia Silveira](https://github.com/LeticiaISilveira)
+[Renata Secco](https://github.com/renata-msecco)
+[Rosangela Silva](https://github.com/rosangelabsilva)
