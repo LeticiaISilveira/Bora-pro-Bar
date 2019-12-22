@@ -14,6 +14,12 @@
 **Bora pro Bar** é um app voltado para pessoas maiores de 18 anos com o intuito de reunir informações sobre bares, conceder vantagens sobre os valores aos usuários cadastrados e outras *features*.
 
 O projeto foi elaborado no Bootcamp da  **Laboratoria**, em quatro dias de *design sprint* e dois dias de *coding* para  apresentação no OpenHouse.
+
+Acesse a interface através do (link https://projeto-open-house.firebaseapp.com/)
+![img-login-BPB](https://github.com/LeticiaISilveira/Projeto-Open-House---BoraProBar/master/src/images/img-login-BPB.jpeg)
+![img-feed-BPB](https://github.com/LeticiaISilveira/Projeto-Open-House---BoraProBar/master/src/images/img-feed-BPB.jpeg)
+
+
 ## 2. O problema
 
 O tema colocado para este projeto foi *entretenimento*; com base nisto foi feita uma pesquisa online (com o uso de *formulário*) com 102 pessoas para verificar as preferências de entretenimento mais relevantes, faixa etária, frequência de saídas para bares e a região de preferência. Com uma pergunta em específico *"Bar bom é bar..."*, conseguimos observar grande heterogeneidade nas respostas, levando à conclusão de que cada faixa etária tem sua preferência.
@@ -77,8 +83,6 @@ Tivemos um *design sprint* de quatro dias e dois dias para escrever o código. O
 ![](https://i.imgur.com/ZiVUbie.png)
 
 ## 5. Desenvolvimento Front-End
-
-Acesse a interface através do (link https://projeto-open-house.firebaseapp.com/)
 
 O app é uma SPA e utilizamos JavaScriptES6, HTML5, CSS3, Git e Here (API de localização/mapa). O uso de uma API RESTful é um requisito obrigatório para este projeto.
 
