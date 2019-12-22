@@ -13,7 +13,7 @@
 
 **Bora pro Bar** é um app voltado para pessoas maiores de 18 anos com o intuito de reunir informações sobre bares, conceder vantagens sobre os valores aos usuários cadastrados e outras *features*.
 
-Este projeto foi elaborado no Bootcamp da **Laboratoria**, em 4 dias de *design sprint* e dois dias de *coding* para apresentação no OpenHouse.
+O projeto foi elaborado no Bootcamp da  **Laboratoria**, em quatro dias de *design sprint* e dois dias de *coding* para apresen no OpenHouse.
 
 ## 2. O problema
 
