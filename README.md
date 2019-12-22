@@ -16,6 +16,7 @@
 O projeto foi elaborado no Bootcamp da  **Laboratoria**, em quatro dias de *design sprint* e dois dias de *coding* para  apresentação no OpenHouse.
 
 Acesse a interface através do (link https://projeto-open-house.firebaseapp.com/)
+**Obs:** Design mobile only.
 ![img-login-BPB](https://github.com/LeticiaISilveira/Projeto-Open-House---BoraProBar/blob/master/src/images/img-login-BPB.jpeg)
 ![img-feed-BPB](https://github.com/LeticiaISilveira/Projeto-Open-House---BoraProBar/blob/master/src/images/img-feed-BPB.jpeg)
 
