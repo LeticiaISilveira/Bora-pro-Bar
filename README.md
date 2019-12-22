@@ -78,6 +78,8 @@ Tivemos um *design sprint* de quatro dias e dois dias para escrever o código. O
 
 ## 5. Desenvolvimento Front-End
 
+Acesse a interface através do (link https://projeto-open-house.firebaseapp.com/)
+
 O app é uma SPA e utilizamos JavaScriptES6, HTML5, CSS3, Git e Here (API de localização/mapa). O uso de uma API RESTful é um requisito obrigatório para este projeto.
 
 ## 6. Desenvolvedoras
