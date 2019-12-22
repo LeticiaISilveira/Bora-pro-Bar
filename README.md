@@ -17,10 +17,8 @@ O projeto foi elaborado no Bootcamp da  **Laboratoria**, em quatro dias de *desi
 
 Acesse a interface através do (link https://projeto-open-house.firebaseapp.com/)
 ![img-login-BPB](https://github.com/LeticiaISilveira/Projeto-Open-House---BoraProBar/blob/master/src/images/img-login-BPB.jpeg)
-![img-feed-BPB](https://github.com/LeticiaISilveira/Projeto-Open-House---BoraProBar/blob/master/src/images/img-feed-BPB.jpeg)
-![screen-Cipher](https://github.com/LeticiaISilveira/SAP003-cipher/blob/master/src/images/screen-Cipher.png)
 
-## 2. O problema
+![img-feed-BPB](https://github.com/LeticiaISilveira/Projeto-Open-House---BoraProBar/blob/master/src/images/img-feed-BPB.jpeg)
 
 O tema colocado para este projeto foi *entretenimento*; com base nisto foi feita uma pesquisa online (com o uso de *formulário*) com 102 pessoas para verificar as preferências de entretenimento mais relevantes, faixa etária, frequência de saídas para bares e a região de preferência. Com uma pergunta em específico *"Bar bom é bar..."*, conseguimos observar grande heterogeneidade nas respostas, levando à conclusão de que cada faixa etária tem sua preferência.
 
