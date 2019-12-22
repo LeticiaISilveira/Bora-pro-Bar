@@ -13,8 +13,7 @@
 
 **Bora pro Bar** é um app voltado para pessoas maiores de 18 anos com o intuito de reunir informações sobre bares, conceder vantagens sobre os valores aos usuários cadastrados e outras *features*.
 
-O projeto foi elaborado no Bootcamp da  **Laboratoria**, em quatro dias de *design sprint* e dois dias de *coding* para apresen no OpenHouse.
-
+O projeto foi elaborado no Bootcamp da  **Laboratoria**, em quatro dias de *design sprint* e dois dias de *coding* para  apresentação no OpenHouse.
 ## 2. O problema
 
 O tema colocado para este projeto foi *entretenimento*; com base nisto foi feita uma pesquisa online (com o uso de *formulário*) com 102 pessoas para verificar as preferências de entretenimento mais relevantes, faixa etária, frequência de saídas para bares e a região de preferência. Com uma pergunta em específico *"Bar bom é bar..."*, conseguimos observar grande heterogeneidade nas respostas, levando à conclusão de que cada faixa etária tem sua preferência.
