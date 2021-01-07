@@ -24,7 +24,7 @@ O tema colocado para este projeto foi *entretenimento*; com base nisto foi feita
 
 Definimos o nicho a partir deste *formulário* e a partir de entrevistas pessoais verificamos problemas como:
 
-* Não existem opções de app que reúnam informações de bares e ao mesmo tempo concedem vantagens sobre o preço aos usuários cadastrados;
+* Não existem opções de app que reúnam informações de bares e ao mesmo tempo concedem vantagens sobre o preço aos usuários cadastrados.
 
 ## 3. UX
 
